@@ -1,0 +1,20 @@
+<!DOCTYPE=html>
+<html>
+<header>
+	<title> Hello </title>
+</header>
+<body>
+	<style type="text/css">
+		h1.first {
+			color : red;
+			font-size: 10em;
+		}
+		p#introduce {
+			font-style: italic;
+			font-size: 3em;
+		}
+	</style>
+	<h1 class = "first">My first HTML at NUS</h1>
+	<p id="introduce">My name is Tuan, and this is my very frst day at NUS as a Web developer Internship. Hope that everything will be alright, i felt a little scare at the beginning, but I think I can handle it. One day, I'll write my first ever HTML again, as an official staff :D and get a high salary :p</p>
+</body>
+</html>
